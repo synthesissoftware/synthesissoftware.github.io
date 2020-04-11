@@ -31718,7 +31718,7 @@ default:if($.ji==="no internet")return M.bl(new T.aV(C.A,r,r,L.f("No Internet Co
 else{t=b.c
 if(t!=null)return L.f("Error: "+H.c(t),r,r,r,r,r,r)
 else{s=new N.aG(r,u.k3)
-return M.bl(U.aim(A.uW(12.8797,121.774),5,!0,s,C.rN,C.q4,V.ajZ(!0,!0)),r,new T.p(C.qJ,E.ff(L.az(C.qT,r,r),!1,new D.a75(s,a)),r),C.qc,r)}}}},
+return M.bl(U.aim(A.uW(12.8797,121.774),7,!0,s,C.rN,C.q4,V.ajZ(!0,!0)),r,new T.p(C.qJ,E.ff(L.az(C.qT,r,r),!1,new D.a75(s,a)),r),C.qc,r)}}}},
 $S:54}
 D.a74.prototype={
 $0:function(){var t=u.z
@@ -31968,7 +31968,7 @@ default:if($.ji==="no internet")return M.bl(new T.aV(C.A,r,r,L.f("No Internet Co
 else{t=b.c
 if(t!=null)return L.f("Error: "+H.c(t),r,r,r,r,r,r)
 else{s=new N.aG(r,u.k3)
-return M.bl(U.aim(A.uW(12.8797,121.774),5,!0,s,C.rN,C.q4,V.ajZ(!0,!0)),r,new T.p(C.qJ,E.ff(L.az(C.qT,r,r),!1,new D.a7c(s,a)),r),C.qc,r)}}}},
+return M.bl(U.aim(A.uW(12.8797,121.774),7,!0,s,C.rN,C.q4,V.ajZ(!0,!0)),r,new T.p(C.qJ,E.ff(L.az(C.qT,r,r),!1,new D.a7c(s,a)),r),C.qc,r)}}}},
 $S:54}
 D.a77.prototype={
 $0:function(){var t=u.z
@@ -32114,7 +32114,7 @@ A:function(a){var t,s,r=null,q=L.f("Data Privacy Terms",r,r,r,A.r(r,r,r,r,r,r,r,
 p=S.ay(F.bG(C.nH,2),new K.ah(p,p,p,p),H.a([new O.ak(0,C.G,new P.l(2,0),5)],u.V),C.l,r,r,C.t)
 t=F.bs(a,!1).a
 s=u.p
-s=Q.d1(!0,T.aq(H.a([new T.aV(C.A,r,r,new T.p(C.an,q,r),r),new T.Q(r,5,r,r),new T.p(new V.a7(30,30,20,20),M.J(r,E.ajA(E.k6(new T.p(C.aN,T.aq(H.a([L.f("Philippine Science High School - Central Visayas Campus in partnership with Synthesis Software respects the privacy of our users. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our mobile application, COVID Control.\n\nPlease read this Privacy Policy carefully. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE APPLICATION.\n\nPhilippine Science High School - Central Visayas Campus in partnership with Synthesis Software (THE PARTY) strongly adheres to the privacy of data whether personal data or sensitive personal data entrusted byyou relative to the COVID-19 CASES. \n\nWe fully subscribe to the statutory mandate laid down in the Data Privacy Act of 2012 and its Implementing Rules and Regulations as well as other administrative issuances from National Privacy Commission in the collection of the data and information which shall be used only for monitoring and tracking COVID-19 patient. \n\nIn this mobile application, it is incumbent upon the health worker, who is tasked to collect, evaluate, assess, muster and encode data and information from patient, to protect and remain the same confidential.\n\nBy accessing and logging in, I hereby voluntarily and willfully allow and consent THE PARTY to gather the data and information set forth in the application.",r,r,r,r,C.lx,r),new T.Q(r,20,r,r),new T.p(C.el,T.R(H.a([K.cq(r,new F.a1i(this),$.ag1),L.f("I agree to the data privacy terms.",r,r,r,r,r,r)],s),C.h,C.j,C.f,r),r)],s),C.h,C.j,C.f),r),r,!1,C.C)),r,r,p,r,t.b-250,r,r,r,r),r)],s),C.h,C.b2,C.f),!0)
+s=Q.d1(!0,T.aq(H.a([new T.aV(C.A,r,r,new T.p(C.an,q,r),r),new T.Q(r,5,r,r),new T.p(new V.a7(30,30,20,20),M.J(r,E.ajA(E.k6(new T.p(C.aN,T.aq(H.a([L.f("Philippine Science High School - Central Visayas Campus in partnership with Synthesis Software respects the privacy of our users. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our mobile application, COVID Control.\n\nPlease read this Privacy Policy carefully. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE APPLICATION.\n\nPhilippine Science High School - Central Visayas Campus in partnership with Synthesis Software (THE PARTY) strongly adheres to the privacy of data whether personal data or sensitive personal data entrusted by you relative to the COVID-19 CASES. \n\nWe fully subscribe to the statutory mandate laid down in the Data Privacy Act of 2012 and its Implementing Rules and Regulations as well as other administrative issuances from National Privacy Commission in the collection of the data and information which shall be used only for monitoring and tracking COVID-19 patient. \n\nIn this mobile application, it is incumbent upon the health worker, who is tasked to collect, evaluate, assess, muster and encode data and information from patient, to protect and remain the same confidential.\n\nBy accessing and logging in, I hereby voluntarily and willfully allow and consent THE PARTY to gather the data and information set forth in the application.",r,r,r,r,C.lx,r),new T.Q(r,20,r,r),new T.p(C.el,T.R(H.a([K.cq(r,new F.a1i(this),$.ag1),L.f("I agree to the data privacy terms.",r,r,r,r,r,r)],s),C.h,C.j,C.f,r),r)],s),C.h,C.j,C.f),r),r,!1,C.C)),r,r,p,r,t.b-250,r,r,r,r),r)],s),C.h,C.b2,C.f),!0)
 q=$.ag1===!1?r:new F.a1j(a)
 return M.bl(s,r,D.FZ(new T.p(C.ad,L.f("Agree",r,r,r,A.r(r,r,C.D,r,r,r,r,r,r,r,r,r,r,C.o,r,r,!0,r,r,r,r,r,r),r,r),r),C.a1,q,r),r,r)}}
 F.a1i.prototype={
